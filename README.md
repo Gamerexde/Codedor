@@ -17,12 +17,14 @@ For default you will get this users and
 passwords
 
 User: Gamerexde
+
 Password: 9010
 
 You can change it if you want to...
 
 ## Language
 This script have 2 languages:
+
 a) Spanish
 b) English
 
