@@ -21,6 +21,13 @@ Password: 9010
 
 You can change it if you want to...
 
+## Language
+This script have 2 languages:
+a) Spanish
+b) English
+
+Select the best one for preference!
+
 ## License
 This script is all for use and it dont have copyright
 or any bullshit do whatever you want with it!
