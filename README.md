@@ -1,11 +1,11 @@
-# Codedor
+# Codeedor
 Simple codedoor for opencomputers! 
 
 ## Introduction
 This script allows users to open doors using
 codes and username, the code can be changed using
 notepad ++ or "edit codedoor.lua" ingame! This is
-an simple code and it is not a profecional one.
+an simple code and it is not a profeccional one.
 
 ## How to install?
 You can donwload it and install ingame floppy disk or
@@ -26,6 +26,7 @@ You can change it if you want to...
 This script have 2 languages:
 
 a) Spanish
+
 b) English
 
 Select the best one for preference!
