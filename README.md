@@ -1,4 +1,4 @@
-# Codedor
+# Codedoor
 Simple codedoor for opencomputers! 
 
 ## Introduction
