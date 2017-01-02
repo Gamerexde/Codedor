@@ -35,4 +35,10 @@ Select the best one for preference!
 This script is all for use and it dont have copyright
 or any bullshit do whatever you want with it!
 
+## 2.0 Plans
+I got so many plans to 2.0, like GUI touch passpad, Player 
+identity only, auto update, and grapgical configuratuin, like
+redstone direction, user and password change ect. Oh i will be
+curently working on Game's OS for Open Computer. 
+
 
